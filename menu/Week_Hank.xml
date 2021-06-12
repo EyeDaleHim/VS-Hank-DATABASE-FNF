@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Week_Hank.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WEEKH0000" x="0" y="0" width="267" height="94" frameX="0" frameY="0" frameWidth="275" frameHeight="97"/>
+	<SubTexture name="WEEKH select0000" x="0" y="0" width="267" height="94" frameX="0" frameY="0" frameWidth="275" frameHeight="97"/>
+	<SubTexture name="WEEKH select0001" x="0" y="94" width="275" height="97"/>
+	<SubTexture name="WEEKW0000" x="0" y="191" width="276" height="91"/>
+	<SubTexture name="WEEKW select0000" x="0" y="191" width="276" height="91"/>
+	<SubTexture name="WEEKW select0001" x="0" y="282" width="283" height="92" frameX="0" frameY="-1" frameWidth="283" frameHeight="93"/>
+</TextureAtlas>
